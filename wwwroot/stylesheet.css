@@ -1,0 +1,134 @@
+header {
+    background-color: #188038;
+    color: #fff;
+    padding: 15px 16px;
+    text-align: center;
+}
+
+main {
+    width: min(900px, calc(100% - 32px));
+    margin: 24px auto;
+}
+
+footer {
+    background-color: #188038;
+    color: #fff;
+    text-align: center;
+    padding: 8px;
+    margin-top: auto;
+}
+
+section {
+    background-color: #fff;
+    border: 2px solid #d6d6d6;
+    border-radius: 6px;
+    padding: 24px;
+    margin-bottom: 20px;
+}
+
+body {
+    background-image: url("image/background.png");
+    background-size: cover;        
+    background-position: center;
+    background-repeat: no-repeat;  
+    background-attachment: fixed;    
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #222;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 2px solid #d6d6d6;
+    padding: 10px;
+    text-align: left;
+}
+
+nav {
+    background-color: #daa917;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+nav a {
+    color: #fff;
+    padding: 12px 18px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+nav a:hover {
+    background-color: #d19f08;
+}
+
+nav a.active {
+    background-color: #f7c122;
+}
+
+.assignment{
+    border-radius: 6px;
+    border: 2px solid #d6d6d6;
+    padding: 12px;
+}
+
+.schedule-box {
+    float: right;
+    width: 280px;
+    max-width: 100%;
+    margin: 0 0 20px 20px;
+    text-align: center;
+}
+
+.schedule-label {
+    font-weight: 600;
+    margin-bottom: 6px;
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+}
+
+.image-float {
+    width: 100%;
+    border-radius: 6px;
+    border: 2px solid #d6d6d6;
+}
+
+@media (max-width: 660px) {
+    .schedule-box {
+        float: none;
+        display: block;
+        margin: 20px auto;
+        width: 100%;
+        max-width: 350px;
+    }
+
+        main {
+        width: calc(100% - 20px);
+    }
+
+        header h1 {
+        font-size: 1.6rem;
+    }
+    
+    nav a {
+        width: 100%;
+        text-align: center;
+    }
+
+    section {
+        padding: 16px;
+    }
+
+    form {
+        display: flex;
+        flex-direction: column;
+    }
+}

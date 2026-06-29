@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="stylesheet.css">
+    </head>
+    <body>
+        <div id="header-placeholder"></div>
+        <main>
+            <section>
+                <p>In this page, you can view all your assignments and add new ones. <br>
+                To add a new assignment, fill in all of the forms below.
+                In the first form fill in the subject, in the second fill in the assignment details and in the third choose the due date.</p>
+            </section>
+            <section>
+                <form method="post" action="/api/assignmentspost">
+                    <input type="text" name="subject" placeholder="Subject" required tooltip>
+                    <input type="text" name="assignment" placeholder="Assignment Details" required>
+                    <input type="date" name="eventDate" required>
+                    <button type="submit">Submit</button>
+                </form>
+                <div id="assignments"></div>
+            </section>
+        </main>
+        <footer>
+            <h3>For ט'4 students only</h3>
+        </footer>
+        <script src="script.js"></script>
+    </body>
+</html>

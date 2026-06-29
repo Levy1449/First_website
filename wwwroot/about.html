@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="stylesheet.css">
+    </head>
+
+    <body>
+
+        <div id="header-placeholder"></div>
+
+        <main>
+
+            <section>
+
+                <h3>About this website</h3>
+                <p>This website was created to help students keep their assignments managed.
+                It provides tips and resources for effective studying.
+                It uses a simple and clean design to ensure easy navigation and a good user experience.</p>
+
+                <h3>Why I chose this idea</h3>
+                <p>I chose this idea because throughout my time in school, I had trouble keeping track of my assignments which led to missed deadlines and increased stress.</p>
+
+                <h3>How It Is Built</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Part</th>
+                            <th>What it does</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>HTML pages</td>
+                            <td>Provide the content for Home, Assignment board, Study tips and About.</td>
+                        </tr>
+                        <tr>
+                            <td>CSS file</td>
+                            <td>Keeps the layout clean and consistent without a complex design.</td>
+                        </tr>
+                        <tr>
+                            <td>JavaScript file</td>
+                            <td>Handles a few basic tasks such as two API calls.</td>
+                        </tr>
+                        <tr>
+                            <td>C# file</td>
+                            <td>Serves the pages and returns some data for the browser to display.</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <h3>What JavaScript Does</h3>
+                <ul>
+                    <li>Highlights the active navigation link.</li>
+                    <li>Loads the shared header.</li>
+                    <li>Fetches the assignment information from the server and displays it.</li>
+                    <li>Fetches the current weather in Tel Aviv and displays it.</li>
+                </ul>
+
+                <h3>Server-Side Implementation</h3>
+                <p>The C# backend uses .NET Minimal API. It exposes one GET route and one POST route:</p>
+                <ul>
+                    <li><code>GET /api/assignmentsget</code> called by the JavaScript code to returns the current assignments stored on the server.</li>
+                    <li><code>POST /api/assignmentspost</code> adds a new assignment sent from the browser form.</li>
+                </ul>
+
+            </section>
+
+        </main>
+
+        <footer>
+            <h3>For ט'4 students only</h3>
+        </footer>
+
+        <script src="script.js"></script>
+    </body>
+
+</html>

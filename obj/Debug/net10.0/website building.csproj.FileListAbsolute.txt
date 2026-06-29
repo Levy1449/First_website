@@ -1,0 +1,36 @@
+C:\Users\levyu\OneDrive\Desktop\website building\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\levyu\OneDrive\Desktop\website building\bin\Debug\net10.0\appsettings.json
+C:\Users\levyu\OneDrive\Desktop\website building\bin\Debug\net10.0\website building.staticwebassets.runtime.json
+C:\Users\levyu\OneDrive\Desktop\website building\bin\Debug\net10.0\website building.staticwebassets.endpoints.json
+C:\Users\levyu\OneDrive\Desktop\website building\bin\Debug\net10.0\website building.exe
+C:\Users\levyu\OneDrive\Desktop\website building\bin\Debug\net10.0\website building.deps.json
+C:\Users\levyu\OneDrive\Desktop\website building\bin\Debug\net10.0\website building.runtimeconfig.json
+C:\Users\levyu\OneDrive\Desktop\website building\bin\Debug\net10.0\website building.dll
+C:\Users\levyu\OneDrive\Desktop\website building\bin\Debug\net10.0\website building.pdb
+C:\Users\levyu\OneDrive\Desktop\website building\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\levyu\OneDrive\Desktop\website building\obj\Debug\net10.0\website building.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levyu\OneDrive\Desktop\website building\obj\Debug\net10.0\website building.AssemblyInfoInputs.cache
+C:\Users\levyu\OneDrive\Desktop\website building\obj\Debug\net10.0\website building.AssemblyInfo.cs
+C:\Users\levyu\OneDrive\Desktop\website building\obj\Debug\net10.0\website building.csproj.CoreCompileInputs.cache
+C:\Users\levyu\OneDrive\Desktop\website building\obj\Debug\net10.0\website building.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\levyu\OneDrive\Desktop\website building\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\levyu\OneDrive\Desktop\website building\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\levyu\OneDrive\Desktop\website building\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\levyu\OneDrive\Desktop\website building\obj\Debug\net10.0\scopedcss\bundle\website building.styles.css
+C:\Users\levyu\OneDrive\Desktop\website building\obj\Debug\net10.0\compressed\c4ud7gqst0-{0}-u9r6sbsdae-u9r6sbsdae.gz
+C:\Users\levyu\OneDrive\Desktop\website building\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\levyu\OneDrive\Desktop\website building\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\levyu\OneDrive\Desktop\website building\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\levyu\OneDrive\Desktop\website building\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\levyu\OneDrive\Desktop\website building\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\levyu\OneDrive\Desktop\website building\obj\Debug\net10.0\website building.dll
+C:\Users\levyu\OneDrive\Desktop\website building\obj\Debug\net10.0\refint\website building.dll
+C:\Users\levyu\OneDrive\Desktop\website building\obj\Debug\net10.0\website building.pdb
+C:\Users\levyu\OneDrive\Desktop\website building\obj\Debug\net10.0\website building.genruntimeconfig.cache
+C:\Users\levyu\OneDrive\Desktop\website building\obj\Debug\net10.0\ref\website building.dll
+C:\Users\levyu\OneDrive\Desktop\website building\obj\Debug\net10.0\compressed\jrj65dzayk-{0}-mlc94j7erb-mlc94j7erb.gz
+C:\Users\levyu\OneDrive\Desktop\website building\obj\Debug\net10.0\compressed\msdiz17gyc-{0}-sifgf7hphw-sifgf7hphw.gz
+C:\Users\levyu\OneDrive\Desktop\website building\obj\Debug\net10.0\compressed\kzfg1rfqpk-{0}-vfb12hklpf-vfb12hklpf.gz
+C:\Users\levyu\OneDrive\Desktop\website building\obj\Debug\net10.0\compressed\2yvdwh7jqo-{0}-njj2ft7497-njj2ft7497.gz
+C:\Users\levyu\OneDrive\Desktop\website building\obj\Debug\net10.0\compressed\rpmstf2zov-{0}-3att9z9cua-3att9z9cua.gz
+C:\Users\levyu\OneDrive\Desktop\website building\obj\Debug\net10.0\compressed\i88jioph5j-{0}-ym8mlubkl2-ym8mlubkl2.gz
