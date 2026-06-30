@@ -88,7 +88,7 @@ Explains how the site itself was built.
 ## Behaviour That Applies to Every Page
 
 Primary colors in the website  
-Chalk board green \- \#188038, Golden Yellow \- `#fbbc04` and White \- `#ffffff`.
+Chalk board green \- `#188038`, Golden Yellow \- `#fbbc04` and White \- `#ffffff`.
 
 Background picture  
 All of the pages have a background picture of a notebook page.
