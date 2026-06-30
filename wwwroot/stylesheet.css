@@ -78,6 +78,8 @@ nav a.active {
     border-radius: 6px;
     border: 2px solid #d6d6d6;
     padding: 12px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 .schedule-box {
