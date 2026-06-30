@@ -47,7 +47,7 @@ The landing page. It orients the visitor and tells him how to use the site.
 
 ---
 
-### Assignment board (assignment\_`board.html`)
+### Assignment board (`assignment_board.html`)
 
 The most interactive page on the website. The user can enter the homework data into a form, which will then be presented in an organized and visually appealing way within cards.
 
@@ -61,7 +61,7 @@ An area displaying the saved tasks. Each task is rendered as its own card.
  	  
 ---
 
-### Study tips (study`tips.html`)
+### Study tips (`studytips.html`)
 
 A page designed to improve the students' study environment.
 
