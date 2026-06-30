@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', async function () {
                 const card = document.createElement('div');
                 card.className = 'assignment';
                 card.innerHTML = `
-                    <p><strong>Subject: </strong> ${assignment.text || ''}</p>
+                    <p><strong>Subject: </strong> ${assignment.subject || ''}</p>
                     <p><strong>Details: </strong> ${assignment.details || ''}</p>
                     <p><strong>Due date: </strong> ${assignment.date || ''}</p>
                 `;
