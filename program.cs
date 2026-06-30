@@ -32,12 +32,12 @@ IResult GetAssignments()
 
 class Assignment
 {
-    public string subject { get; set; }
+    public string Subject { get; set; }
     public string Details { get; set; }
     public string Date { get; set; }
     public Assignment(string subject, string details, string date)
     {
-        subject = subject;
+        Subject = subject;
         Details = details;
         Date = date;
     }
