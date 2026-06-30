@@ -65,7 +65,7 @@ An area displaying the saved tasks. Each task is rendered as its own card.
 
 A page designed to improve the students' study environment.
 
-- Opens with a brief statement about how important the study environment and the technique they use to study.  
+- Opens with a brief statement about how important the study environment and the technique that are used to study.  
 - Continues with a list of tips to improve the study techniques.  
 - Displays the weather in Tel-Aviv and if its between 20 and 28 it shows a massage that suggests the user to study outside, if its above 28 it will suggest the user  to study indoor because it's too hot outside and if its neither of those it will suggest the user to study indoors because it's too hot.
 
