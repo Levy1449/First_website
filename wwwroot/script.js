@@ -68,7 +68,7 @@ document.addEventListener('DOMContentLoaded', async function () {
             container.innerHTML = `<strong>The weather in Tel-Aviv is: ${temp}°C</strong> - It's getting hot, you might want to study indoor.`;
             }
         })
-        .catch(function (err) {
+        .catch(function () {
             container.textContent = "Couldn't load weather data.";
     });
 }
