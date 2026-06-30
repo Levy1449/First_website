@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', async function () {
         return Promise.resolve();
     }
 
-    return fetch('header.html')
+    return fetch('/header.html')
         .then(function (response) {
             if (!response.ok) {
                 throw new Error('Header load failed');
