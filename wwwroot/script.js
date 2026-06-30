@@ -61,11 +61,11 @@ document.addEventListener('DOMContentLoaded', async function () {
             const temp = data.current_condition[0].temp_C;
 
             if (temp >= 20 && temp <= 28) {
-            container.innerHTML = `<p><strong>The weather in Tel-Aviv is: ${temp}°C</strong> - It's a nice day to study outside.</p>`;
+            container.innerHTML = `<strong>The weather in Tel-Aviv is: ${temp}°C</strong> - It's a nice day to study outside.`;
             } else if (temp < 20) {
-            container.innerHTML = `<p><strong>The weather in Tel-Aviv is: ${temp}°C</strong> - It's quite cold, you might want to study indoor.</p>`;
+            container.innerHTML = `<strong>The weather in Tel-Aviv is: ${temp}°C</strong> - It's quite cold, you might want to study indoor.`;
             } else {
-            container.innerHTML = `<p><strong>The weather in Tel-Aviv is: ${temp}°C</strong> - It's getting hot, you might want to study indoor.</p>`;
+            container.innerHTML = `<strong>The weather in Tel-Aviv is: ${temp}°C</strong> - It's getting hot, you might want to study indoor.`;
             }
         })
         .catch(function (err) {
